@@ -7,8 +7,8 @@
 using namespace std;
 
 // Set the timestep length and duration
-#define NUM_STEP 20
-#define DT 0.1
+#define NUM_STEP 8
+#define DT 0.25
 
 // Set the reference velocity
 #define REF_V 26.66 // 60mph = 26.66m/s
